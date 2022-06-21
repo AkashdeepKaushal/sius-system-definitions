@@ -1,0 +1,7 @@
+coverage
+node_mobules
+tests
+jest.config.ts
+docker-compose.yml
+Dockerfile
+.env-unittest
